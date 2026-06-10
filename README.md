@@ -24,15 +24,15 @@
 
 | Login & Home | EDA Dashboard |
 |---|---|
-| ![Login](https://raw.githubusercontent.com/oce-micky/SmartMetro-AI/main/assets/login.png) | ![EDA](https://raw.githubusercontent.com/oce-micky/SmartMetro-AI/main/assets/eda.png) |
+| ![Login](https://raw.githubusercontent.com/oce-micky/Smart_Metro_DMRC-_App/main/assets/login.png) | ![EDA](https://raw.githubusercontent.com/oce-micky/Smart_Metro_DMRC-_App/main/assets/eda.png) |
 
 | Anomaly Detection | AI Congestion Predictor |
 |---|---|
-| ![Anomaly](https://raw.githubusercontent.com/oce-micky/SmartMetro-AI/main/assets/anomaly.png) | ![Predictor](https://raw.githubusercontent.com/oce-micky/SmartMetro-AI/main/assets/predictor.png) |
+| ![Anomaly](https://raw.githubusercontent.com/oce-micky/Smart_Metro_DMRC-_App/main/assets/anomaly.png) | ![Predictor](https://raw.githubusercontent.com/oce-micky/Smart_Metro_DMRC-_App/main/assets/predictor.png) |
 
 | Policy Dashboard | Implementation Roadmap |
 |---|---|
-| ![Policy](https://raw.githubusercontent.com/oce-micky/SmartMetro-AI/main/assets/policy.png) | ![Roadmap](https://raw.githubusercontent.com/oce-micky/SmartMetro-AI/main/assets/roadmap.png) |
+| ![Policy](https://raw.githubusercontent.com/oce-micky/Smart_Metro_DMRC-_App/main/assets/policy.png) | ![Roadmap](https://raw.githubusercontent.com/oce-micky/Smart_Metro_DMRC-_App/main/assets/policy_roadmap.png) |
 
 ---
 
@@ -238,7 +238,7 @@ SmartMetro-AI/
 
 ```bash
 # Clone the repo
-git clone https://github.com/oce-micky/SmartMetro-AI.git
+git clone https://github.com/oce-micky/Smart_Metro_DMRC-_App.git
 cd SmartMetro-AI
 
 # Install dependencies
@@ -284,3 +284,5 @@ Academic Year 2025–26
 ⭐ Star this repo if you found it useful!
 
 </div>
+
+
